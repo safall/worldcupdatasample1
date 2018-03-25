@@ -1,0 +1,49 @@
+export default {
+  "teamName": "Senegal",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'sn1.jpg',
+      altText: 'sn1 image description'
+    },
+    {
+      src: 'sn2.jpg',
+      altText: 'sn2 image description'
+    },
+    {
+      src: 'sn3.jpg',
+      altText: 'sn3 image description'
+    },
+    {
+      src: 'sn4.jpg',
+      altText: 'sn4 image description'
+    },
+    {
+      src: 'sn5.jpg',
+      altText: 'sn5 image description'
+    }
+  ],
+  teamCoverImage: 'Senegal.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText:Senegal eventually reached the quarter-finals of the 2002 World Cup, one of only three African teams to do so (the first being Cameroon in 1990; the other being Ghana in 2010). In the group, after defeating France, they drew with Denmark and Uruguay, and beat Sweden in extra time in the round of 16, before losing to Turkey in the quarter-finals.[1][2] Senegal qualified for the 2018 World Cup after defeating South Africa 0-2 on 10 November 2017. This marks Senegal's second qualification to the World Cup in their history.,
+  teamSubtitle: '',
+  teamRanking: 27,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    
+      ],
+  starPlayers: [
+    {
+      name: 'Sadio Mané',
+      profile: 'Mané',
+      displayPicture: 'Mané.jpg'
+    },
+    {
+      name: 'Cheikhou Kouyaté',
+      profile: 'Kouyaté',
+      displayPicture: 'Kouyaté.jpg'
+    }
+  ]
+}

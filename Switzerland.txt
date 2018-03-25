@@ -1,0 +1,50 @@
+export default {
+  "teamName": "Switzerland",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'sw1.jpg',
+      altText: 'sw1 image description'
+    },
+    {
+      src: 'sw2.jpg',
+      altText: 'sw2 image description'
+    },
+    {
+      src: 'sw3.jpg',
+      altText: 'sw3 image description'
+    },
+    {
+      src: 'sw4.jpg',
+      altText: 'sw4 image description'
+    },
+    {
+      src: 'sw5.jpg',
+      altText: 'sw5 image description'
+    }
+  ],
+  teamCoverImage: 'Switzerland.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: Its best performances in the World Cup have been reaching the quarter-finals three times, in 1934, 1938 and when the country hosted the event in 1954. Switzerland also won silver at the 1924 Olympics. The youth teams have been more successful, winning the 2002 UEFA European Under-17 Championship and the 2009 FIFA U-17 World Cup.`,
+  teamSubtitle: '',
+  teamRanking: 8,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Switzerland 2-5 France in 2014',
+    'Switzerland 0-5 Argentina in 2014',
+  ],
+  starPlayers: [
+    {
+      name: 'Keylor Navas',
+      profile: 'Keylor',
+      displayPicture: 'keylornavas.jpg'
+    },
+    {
+      name: 'Bryan Ruiz',
+      profile: 'Bryanruiz',
+      displayPicture: 'bryanruiz.jpg'
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+export default {
+  "teamName": "Brazil",
+  "fbLink": "https://www.facebook.com/pages/Brazil-national-football-team/107752142581576?fref=mentions",
+  "twitterLink": "https://twitter.com/cbf_futebol?lang=en",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'bra1.jpg',
+      altText: 'bra1 image description'
+    },
+    {
+      src: 'bra2.jpg',
+      altText: 'bra2 image description'
+    },
+    {
+      src: 'bra3.jpg',
+      altText: 'bra3 image description'
+    },
+    {
+      src: 'bra4.jpg',
+      altText: 'bra4 image description'
+    },
+    {
+      src: 'bra5.jpg',
+      altText: 'bra5 image description'
+    }
+  ],
+  teamCoverImage: 'Brazil.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: Brazil is administered by the Brazilian Football Confederation (CBF), the governing body for football in Brazil. They have been a member of the FIFA since 1923 and member of the CONMEBOL since 1916. Brazil is the most successful national team in the FIFA World Cup, the main football international competition, being crowned winner five times: 1958, 1962, 1970, 1994 and 2002. Brazil also has the best overall performance in the World Cup, both in proportional and absolute terms, with a record of 70 victories in 104 matches played, 119 goal difference, 227 points, and 17 losses.[11][12] Brazil is the only national team to have played in all World Cup editions without any absence nor need for playoffs.[13] The seleção is likewise the most successful national team in the FIFA Confederations Cup with four titles: 1997, 2005, 2009 and 2013.`,
+  teamSubtitle: 'FIFA Confederations Cup 1999, FIFA U-17 World Cup Final 2005 - 1995, FIFA Women's World Cup Final 2007, FIFA U-20 World Cup Final 1991 - 1995 - 2009 - 2015, FIFA Futsal World Cup Final 2000, FIFA Beach Soccer World Cup Final 2011, Olympic Football Tournament Women Final 2004 - 2008, Olympic Football Tournament Final 1984 - 1988 - 2012',
+  teamRanking: 2,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Brazil 1-7 germany in 2014',
+    'Netherland 2-1 Brazil in 2101',
+    'Brazil 0-1 France in 2006'
+  ],
+  starPlayers: [
+    {
+      name: 'Neymar Jr.',
+      profile: 'njr',
+      displayPicture: 'njr.jpg'
+    },
+    {
+      name: 'Phillipe Coutinho',
+      profile: 'cout',
+      displayPicture: 'cout.jpg'
+    }
+  ]
+}

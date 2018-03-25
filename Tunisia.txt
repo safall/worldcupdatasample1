@@ -1,0 +1,49 @@
+export default {
+  "teamName": "Tunisia",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'tn1.jpg',
+      altText: 'tn1 image description'
+    },
+    {
+      src: 'tn2.jpg',
+      altText: 'tn2 image description'
+    },
+    {
+      src: 'tn3.jpg',
+      altText: 'tn3 image description'
+    },
+    {
+      src: 'tn4.jpg',
+      altText: 'tn4 image description'
+    },
+    {
+      src: 'tn5.jpg',
+      altText: 'tn5 image description'
+    }
+  ],
+  teamCoverImage: 'Tunisia.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: The Tunisia national football team (Arabic: منتخب تونس لكرة القدم‎), nicknamed Les Aigles de Carthage (The Eagles of Carthage or The Carthage Eagles), is the national team of Tunisia and is controlled by the Tunisian Football Federation. They have qualified for four FIFA World Cups, the first one in 1978, but have yet to make it out of the first round. Nevertheless, they created history in that 1978 tournament in Argentina by becoming the first African side to win a World Cup match, beating Mexico 3–1. They also held defending champions West Germany to a goalless draw before bowing out. They have since qualified for three tournaments in succession, in 1998, 2002, 2006, and have qualified for the 2018 finals.`,
+  teamSubtitle: '',
+  teamRanking: 23,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Burkina Faso 2-0 Tunisia in 2017'
+      ],
+  starPlayers: [
+    {
+      name: 'Aymen Abdennour',
+      profile: 'Abdennour',
+      displayPicture: 'Abdennour.jpg'
+    },
+    {
+      name: 'Wahbi Khazri',
+      profile: 'Khazri',
+      displayPicture: 'Khazri.jpg'
+    }
+  ]
+}

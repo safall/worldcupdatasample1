@@ -1,0 +1,49 @@
+export default {
+  "teamName": "Colombia",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'cm1.jpg',
+      altText: 'cm1 image description'
+    },
+    {
+      src: 'cm2.jpg',
+      altText: 'cm2 image description'
+    },
+    {
+      src: 'cm3.jpg',
+      altText: 'cm3 image description'
+    },
+    {
+      src: 'cm4.jpg',
+      altText: 'cm4 image description'
+    },
+    {
+      src: 'cm5.jpg',
+      altText: 'cm5 image description'
+    }
+  ],
+  teamCoverImage: 'Colombia.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: Since the mid-1980s, the national team has been a symbol fighting the country's negative reputation. This has made the sport popular and made the national team a sign of nationalism, pride and passion for many Colombians worldwide. Colombia is known for having a passionate fan base.`,
+  teamSubtitle: '',
+  teamRanking: 13,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Paraguay 2-1 Colombia in 2017'
+      ],
+  starPlayers: [
+    {
+      name: 'James Rodríguezr',
+      profile: 'James',
+      displayPicture: 'James.jpg'
+    },
+    {
+      name: 'Radamel Falcao',
+      profile: 'Falcao',
+      displayPicture: 'Falcao.jpg'
+    }
+  ]
+}

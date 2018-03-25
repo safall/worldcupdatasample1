@@ -1,0 +1,50 @@
+export default {
+  "teamName": "Belgium",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'bg1.jpg',
+      altText: 'bg1 image description'
+    },
+    {
+      src: 'bg2.jpg',
+      altText: 'bg2 image description'
+    },
+    {
+      src: 'bg3.jpg',
+      altText: 'bg3 image description'
+    },
+    {
+      src: 'bg4.jpg',
+      altText: 'bg4 image description'
+    },
+    {
+      src: 'bg5.jpg',
+      altText: 'bg5 image description'
+    }
+  ],
+  teamCoverImage: 'Belgium.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: Belgium's national team has participated in three quadrennial major football competitions. It appeared in the end stages of twelve FIFA World Cups and five UEFA European Football Championships, and featured at three Olympic football tournaments, including the 1920 Olympic tournament which they won. Other notable performances are victories over four reigning world champions—West Germany, Brazil, Argentina and France—between 1954 and 2002. Belgium has long-standing football rivalries with its Dutch and French counterparts, having played both teams nearly every year from 1905 to 1967. The squad has been known as the Red Devils since 1906; its fan club is named "1895".`,
+  teamSubtitle: '',
+  teamRanking: 5,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Wales 3-1 Belgium in 2016',
+    'Italy 2-0 Belgium in 2016',
+  ],
+  starPlayers: [
+    {
+      name: 'Eden Hazard',
+      profile: 'Hazard',
+      displayPicture: 'Hazard.jpg'
+    },
+    {
+      name: 'Kevin De Bruyne',
+      profile: 'Bruyne',
+      displayPicture: 'Bruyne.jpg'
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+export default {
+  "teamName": "Costa Rica",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'cr1.jpg',
+      altText: 'cr1 image description'
+    },
+    {
+      src: 'cr2.jpg',
+      altText: 'cr2 image description'
+    },
+    {
+      src: 'cr3.jpg',
+      altText: 'cr3 image description'
+    },
+    {
+      src: 'cr4.jpg',
+      altText: 'cr4 image description'
+    },
+    {
+      src: 'cr5.jpg',
+      altText: 'cr5 image description'
+    }
+  ],
+  teamCoverImage: 'CostaRica.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: It is administered by the Costa Rican Football Federation (FEDEFUTBOL), the governing body for football in Costa Rica. They have been a member of the International Federation of Association Football (FIFA) since 1927, a member of the Confederation of North, Central American and Caribbean Association Football (CONCACAF) since 1961, and a member of the Central American Football Union (UNCAF) since 1990.`,
+  teamSubtitle: '',
+  teamRanking: 26,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Costa Rica 0-1 Hungary in 2017',
+    'Costa Rica 0-5 Spain in 2017',
+  ],
+  starPlayers: [
+    {
+      name: 'Keylor Navas',
+      profile: 'Keylor',
+      displayPicture: 'keylornavas.jpg'
+    },
+    {
+      name: 'Bryan Ruiz',
+      profile: 'Bryanruiz',
+      displayPicture: 'bryanruiz.jpg'
+    }
+  ]
+}

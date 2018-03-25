@@ -1,0 +1,50 @@
+export default {
+  "teamName": "Panama",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'pan1.jpg',
+      altText: 'pan1 image description'
+    },
+    {
+      src: 'pan2.jpg',
+      altText: 'pan2 image description'
+    },
+    {
+      src: 'pan3.jpg',
+      altText: 'pan3 image description'
+    },
+    {
+      src: 'pan4.jpg',
+      altText: 'pan4 image description'
+    },
+    {
+      src: 'pan5.jpg',
+      altText: 'pan5 image description'
+    }
+  ],
+  teamCoverImage: 'Panama.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: Panama finished as runners-up in the 2005 Gold Cup and 2013 Gold Cup. Panama has also competed in the sub-regional Central American Cup championship which they won in 2009.`,
+  teamSubtitle: '',
+  teamRanking: 53,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Denmark 1-0 Panama in 2018',
+    'USA 4-0 Panama in 2017',
+  ],
+  starPlayers: [
+    {
+      name: 'Román Torres',
+      profile: 'Torres',
+      displayPicture: 'Torres.jpg'
+    },
+    {
+      name: 'Luis Tejada',
+      profile: 'Tejada',
+      displayPicture: 'Tejada.jpg'
+    }
+  ]
+}

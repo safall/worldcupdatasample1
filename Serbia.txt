@@ -1,0 +1,50 @@
+export default {
+  "teamName": "Serbia",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'sb1.jpg',
+      altText: 'sb1 image description'
+    },
+    {
+      src: 'sb2.jpg',
+      altText: 'sb2 image description'
+    },
+    {
+      src: 'sb3.jpg',
+      altText: 'sb3 image description'
+    },
+    {
+      src: 'sb4.jpg',
+      altText: 'sb4 image description'
+    },
+    {
+      src: 'sb5.jpg',
+      altText: 'sb5 image description'
+    }
+  ],
+  teamCoverImage: 'Serbia.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: With the national team nicknamed the Orlovi (Орлови, the Eagles), football has a long history in both Serbia and neighbouring countries. Serbia competed under the various forms of Yugoslav national teams, where it achieved considerable success, finishing fourth at the 1930 and 1962 World Cups respectively. Considered by FIFA and UEFA to be the successor of both the Yugoslavia and Serbia and Montenegro national teams, the achievements of the promising team of the 1990s which featured players such as Dragan Stojković, Dejan Savićević, Predrag Mijatović, Vladimir Jugović and Siniša Mihajlović was somewhat curbed due to international sanctions imposed against Yugoslavia at the time due to the Yugoslav Wars.`,
+  teamSubtitle: '',
+  teamRanking: 34,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Serbia 1-1 Austria in 2017',
+    'Serbia 2-3 Morocco in 2018',
+  ],
+  starPlayers: [
+    {
+      name: 'Nemanja Matić',
+      profile: 'Matic',
+      displayPicture: 'Matic.jpg'
+    },
+    {
+      name: 'Aleksandar Kolarov',
+      profile: 'Kolarov',
+      displayPicture: 'Kolarov.jpg'
+    }
+  ]
+}

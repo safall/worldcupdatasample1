@@ -1,0 +1,49 @@
+export default {
+  "teamName": "Japan",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'jp1.jpg',
+      altText: 'jp1 image description'
+    },
+    {
+      src: 'jp2.jpg',
+      altText: 'jp2 image description'
+    },
+    {
+      src: 'jp3.jpg',
+      altText: 'jp3 image description'
+    },
+    {
+      src: 'jp4.jpg',
+      altText: 'jp4 image description'
+    },
+    {
+      src: 'jp5.jpg',
+      altText: 'jp5 image description'
+    }
+  ],
+  teamCoverImage: 'Japan.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText: Japan is one of the most successful teams in Asia, having qualified for the last six consecutive FIFA World Cups with second round advancements in 2002 and 2010, and having won the AFC Asian Cup a record four times, in 1992, 2000, 2004 and 2011. The team has also finished second in the 2001 FIFA Confederations Cup. Their principal continental rivals are South Korea and most recently, Australia.`,
+  teamSubtitle: '',
+  teamRanking: 55,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'South Korea 4-1 Japan in 2017'
+      ],
+  starPlayers: [
+    {
+      name: 'Keisuke Honda',
+      profile: 'Honda',
+      displayPicture: 'Honda.jpg'
+    },
+    {
+      name: 'Shinji Kagawa',
+      profile: 'Kagawa',
+      displayPicture: 'Kagawa.jpg'
+    }
+  ]
+}

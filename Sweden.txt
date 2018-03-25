@@ -1,0 +1,50 @@
+export default {
+  "teamName": "Sweden",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'sw1.jpg',
+      altText: 'sw1 image description'
+    },
+    {
+      src: 'sw2.jpg',
+      altText: 'sw2 image description'
+    },
+    {
+      src: 'sw3.jpg',
+      altText: 'sw3 image description'
+    },
+    {
+      src: 'sw4.jpg',
+      altText: 'sw4 image description'
+    },
+    {
+      src: 'sw5.jpg',
+      altText: 'sw5 image description'
+    }
+  ],
+  teamCoverImage: 'Sweden.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText:Sweden made their first World Cup appearance in 1934. Sweden has made eleven World Cup appearances and six appearances in the European Championships. They finished second in the 1958 FIFA World Cup, and third in both 1950 and 1994. Sweden's accomplishments also include a gold medal in the 1948 Summer Olympics, and bronze medals in 1924 and 1952. They reached the semi-finals in UEFA Euro 1992.`,
+  teamSubtitle: '',
+  teamRanking: 19,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Chile  2-1 Sweden in 2017',
+    'Netherland 2-0 Sweden in 2017',
+  ],
+  starPlayers: [
+    {
+      name: 'Victor Lindelöf',
+      profile: 'Lindelöf',
+      displayPicture: 'Lindelöf.jpg'
+    },
+    {
+      name: 'Ola Toivonen',
+      profile: 'Toivonen',
+      displayPicture: 'Toivonen.jpg'
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+export default {
+  "teamName": "Poland",
+  "fbLink": "",
+  "twitterLink": "",
+  "googlePlusLink": "",
+  "imgs": [
+    {
+      src: 'po1.jpg',
+      altText: 'po1 image description'
+    },
+    {
+      src: 'po2.jpg',
+      altText: 'po2 image description'
+    },
+    {
+      src: 'po3.jpg',
+      altText: 'po3 image description'
+    },
+    {
+      src: 'po4.jpg',
+      altText: 'po4 image description'
+    },
+    {
+      src: 'po5.jpg',
+      altText: 'po5 image description'
+    }
+  ],
+  teamCoverImage: 'Poland.jpg',
+  teamTriviaTextSource: 'WIKIPEDIA',
+  teamTriviaText:One of the most renowned Polish teams was the one of the mid-1970s. Poland held England to a draw in a dramatic match at Wembley Stadium to qualify for the 1974 FIFA World Cup. Poland reached the semi-finals, where the deciding game against the eventual champions Germany resulted in a narrow 0-1 defeat. Just missing out on the final, Poland ended the tournament by defeating Brazil 1–0 to claim third place in the tournament. Striker Grzegorz Lato won the Golden Boot for his seven goals. Poland also finished third in the 1982 tournament, beating France 3–2 in the third-place play-off.`,
+  teamSubtitle: '',
+  teamRanking: 6,
+  teamHistoryText: ``,
+  teamLossInfo: [
+    'Nigeria 1-0 Poland in 2018'
+      ],
+  starPlayers: [
+    {
+      name: 'Robert Lewandowski',
+      profile: 'Lewandowski',
+      displayPicture: 'Lewandowski.jpg'
+    },
+    {
+      name: 'Grzegorz Krychowiak',
+      profile: 'Krychowiak',
+      displayPicture: 'Krychowiak.jpg'
+    }
+  ]
+}
